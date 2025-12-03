@@ -16,6 +16,8 @@ from google.genai.errors import APIError
 # --- Konfiqurasiya ---
 API_KEY = "AIzaSyBV0H9QyqN-jwYD-TMPdqNW9LRL5nQdozw"
 GEMINI_MODEL = "gemini-2.5-flash"
+#salam
+
 
 # --- Mərc URL-ləri ---
 urls_array = [
